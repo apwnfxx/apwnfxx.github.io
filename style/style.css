@@ -117,13 +117,14 @@ input[type='file'] {
     background-image: url('../src/rose.jpg');
     background-size: cover;
     width: 100vw;
-    height: 100vh;
+    height: 85vh;
 
 }
 
 a{
     color: black;
     text-decoration: none;
+
 }
 
 body {
