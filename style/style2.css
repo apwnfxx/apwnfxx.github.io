@@ -252,8 +252,15 @@ a{
 }
 
 .card_gallery p{
-  font-family: 'Big Shoulders';
+  font-family: 'Inter';
 }
+
+.card_gallery img {
+  transition: 1s; /* Время эффекта */
+ }
+ .card_gallery img:hover {
+  transform: scale(1.1); /* Увеличиваем масштаб */
+ }
 
   @media screen and (max-width: 600px){
     .gallery_grid{
@@ -267,3 +274,8 @@ a{
     
   }
    
+  .container{
+    padding-left: 7px;
+    padding-top: 5px;
+}
+

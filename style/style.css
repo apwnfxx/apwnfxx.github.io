@@ -117,7 +117,7 @@ input[type='file'] {
     background-image: url('../src/rose.jpg');
     background-size: cover;
     width: 100vw;
-    height: 85vh;
+    height: 80vh;
 
 }
 
@@ -164,4 +164,8 @@ body {
     max-width: 30vw;
     max-height: 15vh;
     margin-bottom: 5vh;
+}
+.container{
+    padding-left: 7px;
+    padding-top: 5px;
 }

@@ -104,6 +104,11 @@ body {
    
 }
 
+.container{
+    padding-left: 7px;
+    padding-top: 5px;
+}
+
 
 .menu {
     display: flex;
